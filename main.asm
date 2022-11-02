@@ -1,5 +1,5 @@
 ;Name: Israel Showell
-;Date Created: 10/27/
+;Date Created: 10/27/22
 ;Project Name: Assembly Array Adder.
 ;Project Desc: This program combines the elements of arrays into a select general register.
 
